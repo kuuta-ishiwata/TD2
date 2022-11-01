@@ -24,7 +24,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///
 		/// ↓更新処理ここから
 		///
-		Novice::ScreenPrintf(0,0,"aiueo");
+		Novice::ScreenPrintf(0,0,"kakikukeko");
 
 
 
